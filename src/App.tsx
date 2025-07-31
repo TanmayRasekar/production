@@ -1,3 +1,4 @@
+// Changes are done in this file to set up a basic React application with Vite
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
